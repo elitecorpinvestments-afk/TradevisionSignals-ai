@@ -1,6 +1,6 @@
 {
   "name": "tradevisionsignals-ai",
-  "version": "0.1.0",
+   "version": "0.1.0",  // <-- COMMA ADDED
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -27,4 +27,3 @@
     "tailwindcss": "^4",
     "typescript": "^5"
   }
-}
