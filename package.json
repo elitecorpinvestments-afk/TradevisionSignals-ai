@@ -1,12 +1,8 @@
 {
   "name": "tradevisionsignals-ai",
-  "version": "0.1.0",  // <-- COMMA ADDED
+  "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  }
+  // ... rest of the file
 }
   "dependencies": {
     "@auth/supabase-adapter": "^1.11.1",
